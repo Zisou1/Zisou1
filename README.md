@@ -33,9 +33,9 @@ A developer who enjoys building useful things, learning continuously, and turnin
 
 ## GitHub stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zisou1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zisou1&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zisou1&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Connect with me
 
