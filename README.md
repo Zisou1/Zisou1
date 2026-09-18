@@ -33,9 +33,11 @@ A developer who enjoys building useful things, learning continuously, and turnin
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zisou1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zisou1&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Zisou1?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Zisou1?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/last-commit/Zisou1/Zisou1?logo=github" alt="Last commit" />
+</div>
 
 ## Connect with me
 
