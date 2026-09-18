@@ -1,4 +1,4 @@
-# Hi, I'm Zisou1 👋
+# Hi, I'm ZAKARIA OULD HAMOUDA 👋
 
 A developer who enjoys building useful things, learning continuously, and turning ideas into working software.
 
@@ -40,8 +40,8 @@ A developer who enjoys building useful things, learning continuously, and turnin
 ## Connect with me
 
 - GitHub: [@Zisou1](https://github.com/Zisou1)
-- Email: your.email@example.com
-- LinkedIn: your-linkedin-profile
+- Email: zakaria.ouldhamouda.dz@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/zakaria-ould-hamouda-63bb87227/
 
 ## Fun fact
 
