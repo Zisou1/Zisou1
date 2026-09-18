@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Zisou1 👋
 
-<!--
-**Zisou1/Zisou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer who enjoys building useful things, learning continuously, and turning ideas into working software.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about software development and problem solving
+- 🌱 Always learning new technologies and improving my skills
+- 🚀 Interested in clean code, efficient systems, and practical user experience
+- 🎯 Focused on creating projects that are useful, scalable, and enjoyable to use
+
+## Tech stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- HTML / CSS
+- SQL
+
+### Tools & Frameworks
+- React
+- Node.js
+- Express
+- Git / GitHub
+- VS Code
+
+## Current focus
+
+- Building projects that solve real problems
+- Improving my engineering skills through hands-on work
+- Exploring modern web development and backend architecture
+
+## GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zisou1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</div>
+
+## Connect with me
+
+- GitHub: [@Zisou1](https://github.com/Zisou1)
+- Email: your.email@example.com
+- LinkedIn: your-linkedin-profile
+
+## Fun fact
+
+I like turning curiosity into code and building things that make life a little easier.
+
+---
+
+> “Code is like a story—clear, useful, and built to last.”
